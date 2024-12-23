@@ -149,10 +149,8 @@ Hi, I'm Suchir, a pre-final year Computer Science student at PES University, RR 
 </div>
 
 ---
-<h1>My Badges ✨</h1>
-<div>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={suchircodezzz}" alt="LeetCode Badges"/>
-</div>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&animated=true&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daedalus15&icon=2&color=1)](https://visitcount.itsvg.in)
