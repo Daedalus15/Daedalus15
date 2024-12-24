@@ -113,18 +113,12 @@ Hi, I'm Suchir, a pre-final year Computer Science student at PES University, RR 
       </td>
     </tr>
   </table>
-  <br><br>
+  <br>
 
   <a href="https://github.com/daedalus15">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=daedalus15&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="GitHub Activity Graph">
   </a>
   <br><br>
-
-  <a href="https://github.com/daedalus15">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daedalus15&theme=nord" alt="GitHub Streak Stats">
-  </a>
-  <br><br>
-
   <a href="https://github.com/daedalus15">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daedalus15&theme=nord_dark" alt="GitHub Profile Summary">
   </a>
